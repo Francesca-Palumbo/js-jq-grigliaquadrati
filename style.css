@@ -26,12 +26,27 @@
 
 .rosso{
     color:red;
+    line-height: 100px;
+    vertical-align: middle;
+    text-align: center;
+    font-weight: 700;
+    font-size: 35px;
 }
 
 .verde{
     color: green;
+    line-height: 100px;
+    vertical-align: middle;
+    text-align: center;
+    font-weight: 700;
+    font-size: 35px;
 }
 
 .nero{
     color:black;
+    line-height: 100px;
+    vertical-align: middle;
+    text-align: center;
+    font-weight: 700;
+    font-size: 35px;
 }
